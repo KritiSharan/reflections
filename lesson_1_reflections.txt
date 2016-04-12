@@ -1,0 +1,13 @@
+Comparing two files based on text 
+Comand from the terminal: diff -u <new file name> <old file name>
+-u stands for uniform
+lines deleted are preceeded by -
+lines added are preceeded by +
+lines unaltered have nothing preceeding them
+
+Version control live examples:
+Wikipedia
+Dropbox
+Google docs
+
+It helps you keep a tab on the chnages you maade and lets you restore to an older version when necessary 

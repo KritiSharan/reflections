@@ -1,0 +1,10 @@
+All hidden files begin with a . 
+Initailize git using git init
+Git does NOT commit any repositories by default 
+
+Initialising repository creates a git file with 0 commits and that can be checked using git status which displays:
+
+	The location of the branch: On branch master
+ 	All untracked files
+	
+To commit use: git add

@@ -1,0 +1,11 @@
+To open a bash file: open .bash_profile
+
+To check if the hidden files exist: ls -a 
+
+To create shortcuts to openning editors add command:
+export PATH=$PATH:<path name> at the end of .bash_profile
+
+To create a new text file:
+cd <Directory Name>
+subl <file name>.txt
+

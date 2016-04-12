@@ -7,4 +7,5 @@ Initialising repository creates a git file with 0 commits and that can be checke
 	The location of the branch: On branch master
  	All untracked files
 	
-To commit use: git add
+To add your files to the staging area use: git add
+All files at the staging area are committed together in one snap
